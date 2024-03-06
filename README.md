@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kamalpreet77
+- 👋 Hi, I’m Kamalpreet Kaur
 - 👀 I’m interested in Machine Learning and Web Developement
 - 🌱 I’m currently learning Web Developement
 - 📫 How to reach me https://github.com/kamalpreet77/
